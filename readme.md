@@ -31,47 +31,44 @@
 
 ### 4.1 登录
 
-![前端登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004710.jpg)
+![登录](https://www.codeshop.fun/%20Typora-Images/202309271004217.jpg)
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004217.jpg)
+![首页](https://www.codeshop.fun/%20Typora-Images/202309271004748.jpg)
 
-### 4.2 前端模块
+![报道指南详情](https://www.codeshop.fun/%20Typora-Images/202309271004527.jpg)
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004748.jpg)
+![生活用品购买](https://www.codeshop.fun/%20Typora-Images/202309271004557.jpg)
 
-![报道指南详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004527.jpg)
-
-![生活用品购买](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004557.jpg)
-
-![校园论坛](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004109.jpg)
+![校园论坛](https://www.codeshop.fun/%20Typora-Images/202309271004109.jpg)
 
 ### 4.3 新生模块
 
-![学生-新生签到](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004796.jpg)
+![学生-新生签到](https://www.codeshop.fun/%20Typora-Images/202309271004796.jpg)
 
-![学生-健康码管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004684.jpg)
+![学生-健康码管理](https://www.codeshop.fun/%20Typora-Images/202309271004684.jpg)
 
-![学生-添加健康码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005372.jpg)
+![学生-添加健康码](https://www.codeshop.fun/%20Typora-Images/202309271005372.jpg)
 
-![学生-收藏管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005787.jpg)
+![学生-收藏管理](https://www.codeshop.fun/%20Typora-Images/202309271005787.jpg)
 
-![学生-生活用品订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005184.jpg)
+![学生-生活用品订单管理](https://www.codeshop.fun/%20Typora-Images/202309271005184.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005597.jpg)
+![管理员-学生管理](https://www.codeshop.fun/%20Typora-Images/202309271005597.jpg)
 
-![管理员-报道指南](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005447.jpg)
+![管理员-报道指南](https://www.codeshop.fun/%20Typora-Images/202309271005447.jpg)
 
-![管理员-专业管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005534.jpg)
+![管理员-专业管理](https://www.codeshop.fun/%20Typora-Images/202309271005534.jpg)
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005210.jpg)
+![管理员-班级管理](https://www.codeshop.fun/%20Typora-Images/202309271005210.jpg)
 
-![管理员-签到管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005428.jpg)
+![管理员-签到管理](https://www.codeshop.fun/%20Typora-Images/202309271005428.jpg)
 
-![管理员-健康码管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271006914.jpg)
+![管理员-健康码管理](https://www.codeshop.fun/%20Typora-Images/202309271006914.jpg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271006101.jpg)
+![管理员-商品管理](https://www.codeshop.fun/%20Typora-Images/202309271006101.jpg)
+
 
 ## 获取方式
 
